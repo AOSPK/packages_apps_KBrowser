@@ -5,7 +5,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "org.lineageos.jelly"
+        applicationId "org.kraken.kbrowser"
         minSdkVersion 26
         targetSdkVersion 30
         versionCode 1
